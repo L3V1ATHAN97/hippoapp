@@ -1,0 +1,6 @@
+SignUpScreen.js needs to be able to send data to users.json or server (in which case I would need to change SignInScreen.js to be able to read from there) and the ability to send a confirmation email
+MessagingScreen.js needs to be able to have working navigation, an admin and user side sepperated, reveal function, and working messaging system through a server probably
+Do I need to do something for Peer Helpers?
+Implement settings 
+Create bottom bar navigation
+Redesign UI

@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Uriah Chumpitaz",
+      "age": 17,
+      "likes": ["Reading", "Coding", "Music"],
+      "grade": "Senior",
+      "gender": "Male",
+      "orientation": "Straight"
+    },
+    {
+      "id": 2,
+      "name": "Arilyn Jamrog",
+      "age": 18,
+      "likes": ["Josiah", "Dr. Stayton", "Capstone"],
+      "grade": "Senior",
+      "gender": "Female",
+      "orientation": "Straight"
+    }
+  ]
